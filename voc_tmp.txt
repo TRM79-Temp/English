@@ -1,3 +1,8 @@
 In the last year, the company has been under increasing pressure from <exmpl>competitors</exmpl>.
 After a week long <exmpl>off-site</exmpl> brainstorming session over <exmpl>golf</exmpl>, the company <exmpl>executives</exmpl> think it’s time for a big innovation.
 The executives decided that flying ducks is just what the simulator needs to blow away the other duck <exmpl>sim</exmpl> <exmpla>competitors</exmpla>.
+<exmpl>Grasshopper</exmpl>, tell me what you have learned of the Object- Oriented ways.
+Master, through inheritance all good things may be reused and so we will come to <exmpl>drastically</exmpl> cut development time like we <exmpla>swiftly</exmpla> cut bamboo in the woods.
+A common <exmpl>misconception</exmpl>, <exmpla>Grasshopper</exmpla>, but it’s more <exmpla>subtle</exmpla> than that. You have much to learn...
+There are some object oriented-principles that underlie the patterns, and knowing these will help you to <exmpl>cope</exmpl> when you can’t find a pattern that matches your problem.; A design guru thinks about how to create flexible designs that are maintainable and that can <exmpl>cope</exmpl> with change.
+Patterns are <exmpl>proven</exmpl> object-oriented experience.

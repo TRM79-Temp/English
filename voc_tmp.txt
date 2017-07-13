@@ -12,3 +12,5 @@ Duck is <exmpl>psyched</exmpl>... he’s on the list and is waiting with great <
 Overheard in the next <exmpl>cubicle</exmpl>...; <exmpl>Cubicle</exmpl> conversation
 There’s so many different kinds of us Observers, there’s no way you can <exmpl>anticipate</exmpl> everything we need. ### see 'anticipation'
 Don’t do it, you might <exmpl>regret</exmpl> it!
+Open for extension and closed for modification? That sounds very <exmpl>contradictory</exmpl>. How can a design be both?
+Let’s take a look at the class diagram, which is a little more <exmpl>revealing</exmpl> (on the next page we’ll look at the same structure applied to the <exmpla>beverage</exmpla> problem).
